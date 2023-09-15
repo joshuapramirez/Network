@@ -21,13 +21,13 @@ In this video, I go through the features and functionality of this project.
 
 
 ## Features
--User Account Creation
--Authentication and User Management
--User Profiles
--Discover Feed
--Following Feed
--Posting and Editing
--Likes and Interactions
+- User Account Creation
+- Authentication and User Management
+- User Profiles
+- Discover Feed
+- Following Feed
+- Posting and Editing
+- Likes and Interactions
 
 
 ### Installation
