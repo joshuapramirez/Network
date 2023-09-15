@@ -41,16 +41,16 @@ pip3 install django
 
 
 ## Files
-styles.css - CSS defining the application's base appearance.
-functions.js - Contains JavaScript functions that enable dynamic interactions, such as handling post edits, toggling likes, and updating like counts.
-views.py - Implements Python functions for various operations, including managing likes, handling posts, following interactions, user profiles, user authentication, and user registration.
-layout.html - Provides the overall application layout.
-register.html - User account creation page.
-login.html - User login page.
-profile.html - Presents user profile information, including follower and following counts.  It displays posts associated with the profile, and allows the authenticated user to follow/unfollow.
-index.html - Displays all posts in a user-centric interface. Authenticated users can create new posts, view and like existing posts, and edit their own posts using modals.
-following.html - Displays posts from users that the current user is following.
-models.py - Defines the data models for the application. It includes classes for User, Post, Follow, and Like.
-urls.py - Manages all application URLs.
-admin.py - Facilitates the administration interface for managing application data models.
-settings.py - Contains configuration settings for the Django project. It includes settings for database connections, middleware, templates, authentication, internationalization, time zones, and static files handling.
+- styles.css - CSS defining the application's base appearance.
+- functions.js - Contains JavaScript functions that enable dynamic interactions, such as handling post edits, toggling likes, and updating like counts.
+- views.py - Implements Python functions for various operations, including managing likes, handling posts, following interactions, user profiles, user authentication, and user registration.
+- layout.html - Provides the overall application layout.
+- register.html - User account creation page.
+- login.html - User login page.
+- profile.html - Presents user profile information, including follower and following counts.  It displays posts associated with the profile, and allows the authenticated user to follow/unfollow.
+- index.html - Displays all posts in a user-centric interface. Authenticated users can create new posts, view and like existing posts, and edit their own posts using modals.
+- following.html - Displays posts from users that the current user is following.
+- models.py - Defines the data models for the application. It includes classes for User, Post, Follow, and Like.
+- urls.py - Manages all application URLs.
+- admin.py - Facilitates the administration interface for managing application data models.
+- settings.py - Contains configuration settings for the Django project. It includes settings for database connections, middleware, templates, authentication, internationalization, time zones, and static files handling.
