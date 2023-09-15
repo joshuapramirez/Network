@@ -6,8 +6,8 @@ Social network app, offering users a platform to share posts, engage with conten
 - [Description](#Description)
 - [Features](#Features)
 - [Installation](#Installation)
-- [How to run](#How to run)
-- [Distinctiveness and Complexity](#Distinctiveness and Complexity)
+- [How to run](#How-to-run)
+- [Distinctiveness and Complexity](#Distinctiveness-and-Complexity)
 - [Files](#Files)
 
 
