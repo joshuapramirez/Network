@@ -1,9 +1,8 @@
 # Network
-
 Social network app, offering users a platform to share posts, engage with content, and connect with others in a manner reminiscent of the original Twitter experience
 
-## Table of Contents
 
+## Table of Contents
 - [Description](#Description)
 - [Features](#Features)
 - [Installation](#Installation)
@@ -14,6 +13,11 @@ Social network app, offering users a platform to share posts, engage with conten
 
 ## Description
 I have crafted a social networking platform that emulates the essence of Twitter, providing users with a space to share their thoughts, engage with content, and connect with others. This user-focused application delivers a familiar experience akin to the original Twitter, facilitating effortless posting, liking, and following functionalities. Users can navigate posts with ease, and the intuitive design promotes seamless interactions, encouraging meaningful connections and conversations. Dynamic features like real-time liking and pagination ensure a fluid user experience, resembling the dynamics of a vibrant social network.
+
+
+## Video Walkthrough
+[Watch the Video Walkthrough]([https://youtu.be/9AFGgIo1nNA](https://youtu.be/djLbHY6uKjE))
+In this video, I go through the features and functionality of this project.
 
 
 ## Features
