@@ -16,7 +16,7 @@ I have crafted a social networking platform that emulates the essence of Twitter
 
 
 ## Video Walkthrough
-[Watch the Video Walkthrough]([https://youtu.be/9AFGgIo1nNA](https://youtu.be/djLbHY6uKjE))
+[Watch the Video Walkthrough](https://youtu.be/djLbHY6uKjE)
 In this video, I go through the features and functionality of this project.
 
 
